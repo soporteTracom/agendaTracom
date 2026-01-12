@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IPPhoneDirectory>
+
+  <!-- ====== EXTENSIONES INTERNAS ====== -->
+  <DirectoryEntry>
+    <Name>100 - Aza</Name>
+    <Telephone>100</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>101 - Jose</Name>
+    <Telephone>101</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>102 - Nacho</Name>
+    <Telephone>102</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>103 - La Sozial</Name>
+    <Telephone>103</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>104 - David</Name>
+    <Telephone>104</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>105 - Aza</Name>
+    <Telephone>105</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>106 - Libre</Name>
+    <Telephone>106</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>107 - Jacke</Name>
+    <Telephone>107</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>108 - Programación</Name>
+    <Telephone>108</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>109 - Alex/Sara</Name>
+    <Telephone>109</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>110 - Esther</Name>
+    <Telephone>110</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>111 - OAPCNC MADRID</Name>
+    <Telephone>111</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>112 - Noelia</Name>
+    <Telephone>112</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>113 - Marta</Name>
+    <Telephone>113</Telephone>
+  </DirectoryEntry>
+
+  <!-- ====== NUMEROS EXTERNOS ====== -->
+  <DirectoryEntry>
+    <Name>ASTURIAS</Name>
+    <Telephone>34984276150</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>CACERES</Name>
+    <Telephone>34927953150</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>CASTELLÓN</Name>
+    <Telephone>34864894120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>CIUDAD REAL</Name>
+    <Telephone>34826907100</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>GIRONA</Name>
+    <Telephone>34872464120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>LA RIOJA</Name>
+    <Telephone>34941736100</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>PORTAL PYDE</Name>
+    <Telephone>34910059555</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>SEGOVIA</Name>
+    <Telephone>34921286120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>TOLEDO</Name>
+    <Telephone>34825776120</Telephone>
+  </DirectoryEntry>
+
+</IPPhoneDirectory>
